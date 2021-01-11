@@ -106,3 +106,9 @@ C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSyste
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Data.dll
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Entities.dll
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Data.pdb
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Data.dll.config
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Entities.pdb
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Entities.dll.config

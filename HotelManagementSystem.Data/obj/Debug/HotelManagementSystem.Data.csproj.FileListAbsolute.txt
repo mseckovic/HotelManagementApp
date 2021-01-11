@@ -13,3 +13,10 @@ C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSyste
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\obj\Debug\HotelManagementSystem.Data.csproj.CopyComplete
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\obj\Debug\HotelManagementSystem.Data.dll
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\obj\Debug\HotelManagementSystem.Data.pdb
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\obj\Debug\HotelManagementSystem.Data.Migrations.BasicEntities.resources
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\obj\Debug\HotelManagementSystem.Data.csproj.GenerateResource.cache
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem.Data\obj\Debug\HotelManagementSystem.Data.Migrations.identityframeworkreference.resources
