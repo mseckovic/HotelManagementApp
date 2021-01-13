@@ -112,3 +112,6 @@ C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSyste
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Data.dll.config
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Entities.pdb
 C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Entities.dll.config
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Services.dll
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Services.pdb
+C:\Users\milos.seckovic\Documents\GitHub\HotelManagementApp\HotelManagementSystem\bin\HotelManagementSystem.Services.dll.config
